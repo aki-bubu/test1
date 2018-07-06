@@ -1,0 +1,31 @@
+body{
+    background-color: #bdc3c7;
+ font-size: 16px;
+ font-weight: bold;
+ font-family: Arial,  sans-serif;   
+}
+
+.panel{
+    background-color: #fff;
+}
+.rank {
+    margin-bottom:15px;
+}
+.logic{
+    margin-bottom: 30px;
+}
+.tool{
+    margin-bottom: 30px;
+}
+.talk{
+    margin-bottom: 30px;
+}
+.atti{
+    margin-bottom: 30px;
+}
+.result{
+    background-color: #000000;
+    color:#fff;
+    font-size: 30px;
+
+}
